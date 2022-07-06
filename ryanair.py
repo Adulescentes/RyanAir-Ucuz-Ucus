@@ -184,16 +184,6 @@ class Ui_Dialog(object):
                 item = self.tableWidget.item(j, i)
                 item.setText(_translate("Dialog", str(g[i])))
 
-
-
-
-        #print(list(liste[0].values())[0])
-
-        # for i in range(0, len(başlıklar)):
-        #     item = self.tableWidget.item(1, i)
-        #     item.setText(_translate("Dialog", f"b{i+1}"))
-
-        
         __sortingEnabled = self.tableWidget.isSortingEnabled()
         self.tableWidget.setSortingEnabled(__sortingEnabled)
 
