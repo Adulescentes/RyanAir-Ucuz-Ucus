@@ -12,6 +12,7 @@ Bu sürüm henüz yayımlanmadı
 Planlanan geliştirmeler:
 - Bütçe kutusuna sayı harici bir şey yazılması kabul edilmeyecek.
 - Tarih aralığı en erken bugünden başlayacak ve aylar o ayın kaç gün çektiğine bağlı olarak sonuç gösterecek.
+- Sonuç olarak gösterilen uçuşlara ait fiyatlar kullanıcının belirlediği para biriminde gösterilecek.
 - Sonuç olarak gösterilen uçuşlar fiyat olarak ucuzdan pahalıya sıralanacak.
 
 V3.0
