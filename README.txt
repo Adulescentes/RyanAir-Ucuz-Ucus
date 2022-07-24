@@ -18,3 +18,4 @@ V3.0
 Bu sürüm henüz yayımlanmadı
 Planlanan geliştirmeler:
 - Programın MySQL veritabanına bağımlılığı tamamen kaldırılacak, portatif olarak çalışabilir hale gelecek.
+- Sorgulama için geçen sürede ne kadar ilerleme olduğunu gösteren bir yükleme barı olacak.
