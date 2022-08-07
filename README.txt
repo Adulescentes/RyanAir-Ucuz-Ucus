@@ -18,7 +18,7 @@ Geliştirmeler:
 - Sonuç olarak gösterilen uçuşlara ait fiyatlar kullanıcının belirlediği para biriminde gösteriliyor.
 - Sonuç olarak gösterilen uçuşlar fiyat olarak ucuzdan pahalıya sıralanıyor.
 
-
+![V2 1_1](https://user-images.githubusercontent.com/71014329/183307590-91b53ae2-c972-49b7-967a-b56c8ca44413.png)
 
 V3.0
 Bu sürüm henüz yayımlanmadı
