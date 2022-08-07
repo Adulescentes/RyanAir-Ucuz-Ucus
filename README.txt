@@ -2,6 +2,7 @@ V1.0
 Bu sürüm interaktif değildir. Halihazırda var olan bir dosyadan okunan veriler uygulama içinde görüntülenmektedir.
 
 V2.0
+24.07.2022 Tarihinde yayımlandı.
 Bu sürüm interaktif çalışmaktadır. Bir MySQL veritabanı ve yardımcı json dosyası olmaksızın çalışamaz.
 Geliştirmeler:
 - Şehirleri gösteren kutucukların seçilen ülkeye göre sonuç göstermesi sağlandı.
