@@ -18,7 +18,7 @@ Geliştirmeler:
 - Sonuç olarak gösterilen uçuşlara ait fiyatlar kullanıcının belirlediği para biriminde gösteriliyor.
 - Sonuç olarak gösterilen uçuşlar fiyat olarak ucuzdan pahalıya sıralanıyor.
 
-!(https://github.com/Adulescentes/RyanAir-Ucuz-Ucus/blob/main/V2.1_1.png?raw=true)
+<img src="https://github.com/Adulescentes/RyanAir-Ucuz-Ucus/blob/main/V2.1_1.png" alt="Alt text" title="Optional title">
 
 V3.0
 Bu sürüm henüz yayımlanmadı
