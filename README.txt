@@ -1,4 +1,5 @@
-V1.0 
+V1.0
+06.07.2022 Tarihinde yayımlandı.
 Bu sürüm interaktif değildir. Halihazırda var olan bir dosyadan okunan veriler uygulama içinde görüntülenmektedir.
 
 V2.0
